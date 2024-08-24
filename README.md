@@ -141,7 +141,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
   </a>
 </p>
-[![Emine's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=your-github-username&&theme=xcode)](https://github.com/your-github-username)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="your-github-username" /></p>
 
