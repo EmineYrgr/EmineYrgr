@@ -141,28 +141,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
   </a>
 </p>
-<h3 align="left">My GitHub Stats:</h3>
-<p align="left">
-<a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=false&hide=prs&count_private=true&include_all_commits=true&hide=contribs&theme=dark" alt="Emine Yüregir's GitHub Stats" />
-</a>
-<a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages" />
-</a>
-</p>
+[![Emine's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=your-github-username&&theme=xcode)](https://github.com/your-github-username)
 
-<h3 align="left">My GitHub Stats:</h3>
-<a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=false&hide=prs&count_private=true&include_all_commits=true&hide=contribs&theme=dark" alt="Emine Yüregir's GitHub Stats" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="your-github-username" /></p>
 
-<a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages" />
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en&theme=tokyonight" alt="your-github-username" /></p>
 
-<h3 align="left">My Projects:</h3>
-<ul>
-<li> <a href="https://yourwebsite.com/project1" target="blank">Project 1</a> </li>
-<li> <a href="https://yourwebsite.com/project2" target="blank">Project 2</a> </li>
-<li> <a href="https://yourwebsite.com/project3" target="blank">Project 3</a> </li>
-</ul>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&&theme=tokyonight" alt="your-github-username" /></p>
+
