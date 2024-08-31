@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emine-yuregir&label=Profile%20views&color=0e75b6&style=flat" alt="emine-yuregir" /> </p>
 
--🔭 I’m currently working on a portfolio website using HTML, CSS, and JavaScript
--🌱 I’m currently learning .NET and PostgreSQL
--💬 Ask me about Angular, .NET, JavaScript
--📫 How to reach me: yuregiremine0@gmail.com
--⚡ Fun fact: I love solving challenging coding problems!
+-🔭 I’m currently working on a portfolio website using HTML, CSS, and JavaScript <br>
+-🌱 I’m currently learning .NET and PostgreSQL<br>
+-💬 Ask me about Angular, .NET, JavaScript<br>
+-📫 How to reach me: yuregiremine0@gmail.com<br>
+-⚡ Fun fact: I love solving challenging coding problems!<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
