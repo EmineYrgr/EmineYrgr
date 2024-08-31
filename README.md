@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emine-yuregir&label=Profile%20views&color=0e75b6&style=flat" alt="emine-yuregir" /> </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
-- 🌱 I’m currently learning **DevOps**
-- 💬 Ask me about **Android, MEARN**
-- 📫 How to reach me: **[yuregiremine0@gmail.com](mailto:yuregiremine0@gmail.com)**
-- ⚡ Fun fact: **I am Funny**
+
+🔭 I’m currently working on a portfolio website using HTML, CSS, and JavaScript
+🌱 I’m currently learning .NET and PostgreSQL
+💬 Ask me about Angular, .NET, JavaScript
+📫 How to reach me: yuregiremine0@gmail.com
+⚡ Fun fact: I love solving challenging coding problems!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
